@@ -1,1 +1,1 @@
-### Quick simon game implementation using HTML, CSS, JS and jQuery framework.
+Quick simon game implementation using HTML, CSS, JS and jQuery framework.
